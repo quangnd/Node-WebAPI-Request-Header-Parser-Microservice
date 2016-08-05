@@ -1,5 +1,5 @@
 {
-  "name": "request header parser",
+  "name": "request-header-parser",
   "version": "1.0.0",
   "description": "Learning NodeJS",
   "main": "app.js",
